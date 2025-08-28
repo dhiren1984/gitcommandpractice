@@ -1,0 +1,28 @@
+git clone https://github.com/dhiren1984/gitcommandpractice.git
+ls
+dir
+cd gitcommandpractice
+git clone -h
+clear
+cls
+md Prac01
+cd Prac01
+echo Hello World > Readme.md
+ls
+dir
+git add .
+git commit -m "Initial Commit"
+git log
+echo File1 > file1.txt
+echo File2 > File2.txt
+git status
+echo File3 > File3.txt
+git add File1.txt File2.txt
+git status
+git add file1.txt File3.txt
+git status
+history
+git
+doskey
+doskey /history
+doskey /history >History.txt
