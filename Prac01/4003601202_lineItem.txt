@@ -1,0 +1,38 @@
+{
+    "d": {
+        "documentId": "4003601202",
+        "all": "X",
+        "source": "SFDC",
+        "itemPartners": "ZL ZS",
+        "additionalDetails": [
+            {
+                "parameterName": "USER_TYPE",
+                "parameterValue": ""
+            }
+        ],
+        "documentItems": [
+            {
+                "supportDetails": [
+                    {
+                        "characteristics": []
+                    }
+                ],
+                "offerPackages": [],
+                "modifiers": []
+            }
+        ],
+        "eToolsDocumentDetails": [
+            {
+                "suUATSEP0299pportDetails": [
+                    {
+                        "characteristics": []
+                    }
+                ],
+                "subTotals": [],
+                "offerPackages": [],
+                "modifiers": [],
+                "itemPartners": []
+            }
+        ]
+    }
+}
