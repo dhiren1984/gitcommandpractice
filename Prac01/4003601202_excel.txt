@@ -1,0 +1,452 @@
+{
+	"transactionId": "a2eD6000001yqefIAA",
+	"sdDocumentNo": "",
+	"formatPrices": "",
+	"fullExtractFlag": "",
+	"companyGroupId": "",
+	"region": "APJ",
+	"fileFormat": "S",
+	"fileColumnNames": "GRP_ID,GRP_DESC,SAID,SUPP_ID,DOC,common_t102,DOC_STRT,DOC_END,DOC_PRC,PurRev_j400,EQP_ID,GD_PROD_NUM,GD_PROD_DESC,QTY,TranTag_0348,download_t008,SRV_PROD_NUM,SRV_PROD_DESC,Warranty_j19,WARR_END,SUPP_END,SER,PROD_TYP,download_t006,HWCT,download_t010,SWCT,download_t011,download_t002,download_t009,EQP_LOC_COMP,EQP_LOC_ADDR2,EQP_LOC_ADDR3,EQP_LOC_ADDR4,EQP_LOC_ADDR5,download_t005,LIN_NPRC_TOT,LIN_LPRC_TOT,LIN_LPRC_MON,LIN_DISC_MON,download_t017,LIN_STRT,LIN_END,download_t001,download_t003,Tier2_t001,Tier2_t003,Tier2_t004,Tier2_t005,Tier2_t038,Tier2_t006,Tier2_t007,RESELLER_COUNTRY,PsDoc_t003,PsDoc_t002,GIDI,INVOICEMETHODOLOGY,COUNTRY_CODE,Tech_Id,CURR,DTAG,BSTDK,TAX,SALESOFFICE,ETPCO,ETPSTR,ETPCTY,ETPPST,ETPREG,ETPCTR,tir2recon,RSRTEL,RESPO,ENCUSNAM,ENCUSTR,ENCUSCITY,ENCUSPOST,ENCUSREG,ENCUSCTRY,VNUM,RESDT,RESTM,ENCUSID,HPE_SO,LCID",
+	"language": "en_US",
+	"partnerId": "a2eD6000001yqefIAA",
+	"fileName": "20250828090852213_AU_S4",
+	"notificationEmailList": "g-praveen-kumar.reddy@hpe.com,dhiren-kumar.kaunar@hpe.com",
+	"fileDescription": "Services360 Pro&#124;&#124;(New Template)&#124;&#124;xls",
+	"navigationHeadSearchKeys": {
+		"beginDate": "null",
+		"beginDateSign": "",
+		"beginDateHigh": "null",
+		"endDate": "null",
+		"endDateSign": "",
+		"endDateHigh": "null"
+	},
+	"navigationHeadObjects": [
+		{
+			"objectType": "VBAK",
+			"objectId": "4003601202",
+			"documentCategory": "?",
+			"versionNo": "",
+			"navigationObjectsCountries": [
+				{
+					"country": ""
+				}
+			]
+		},
+		{
+			"objectType": "SP",
+			"objectId": "1000924907",
+			"salesOffice": "",
+			"agentNumber": "",
+			"documentCategory": "",
+			"versionNo": "",
+			"navigationObjectsCountries": [
+				{
+					"country": "KR&#124;SA01&#124;"
+				}
+			]
+		},
+		{
+			"objectType": "SP",
+			"objectId": "1000858201",
+			"salesOffice": "",
+			"agentNumber": "",
+			"documentCategory": "",
+			"versionNo": "",
+			"navigationObjectsCountries": [
+				{
+					"country": "AL&#124;&#124;"
+				}
+			]
+		},
+		{
+			"objectType": "SP",
+			"objectId": "1000923760",
+			"salesOffice": "",
+			"agentNumber": "",
+			"documentCategory": "",
+			"versionNo": "",
+			"navigationObjectsCountries": [
+				{
+					"country": "AU&#124;&#124;"
+				}
+			]
+		},
+		{
+			"objectType": "SP",
+			"objectId": "1000606404",
+			"salesOffice": "",
+			"agentNumber": "",
+			"documentCategory": "",
+			"versionNo": "",
+			"navigationObjectsCountries": [
+				{
+					"country": "AU&#124;&#124;"
+				}
+			]
+		},
+		{
+			"objectType": "SP",
+			"objectId": "0110101417",
+			"salesOffice": "",
+			"agentNumber": "",
+			"documentCategory": "",
+			"versionNo": "",
+			"navigationObjectsCountries": [
+				{
+					"country": "AU&#124;&#124;"
+				}
+			]
+		},
+		{
+			"objectType": "SP",
+			"objectId": "1001623805",
+			"salesOffice": "",
+			"agentNumber": "",
+			"documentCategory": "",
+			"versionNo": "",
+			"navigationObjectsCountries": [
+				{
+					"country": "AU&#124;&#124;"
+				}
+			]
+		},
+		{
+			"objectType": "SP",
+			"objectId": "1001971114",
+			"salesOffice": "",
+			"agentNumber": "",
+			"documentCategory": "",
+			"versionNo": "",
+			"navigationObjectsCountries": [
+				{
+					"country": "AU&#124;&#124;"
+				}
+			]
+		},
+		{
+			"objectType": "SP",
+			"objectId": "1000007013",
+			"salesOffice": "",
+			"agentNumber": "",
+			"documentCategory": "",
+			"versionNo": "",
+			"navigationObjectsCountries": [
+				{
+					"country": "AU&#124;&#124;"
+				}
+			]
+		},
+		{
+			"objectType": "SP",
+			"objectId": "1000875730",
+			"salesOffice": "",
+			"agentNumber": "",
+			"documentCategory": "",
+			"versionNo": "",
+			"navigationObjectsCountries": [
+				{
+					"country": "AU&#124;&#124;"
+				}
+			]
+		},
+		{
+			"objectType": "SP",
+			"objectId": "1000970370",
+			"salesOffice": "",
+			"agentNumber": "",
+			"documentCategory": "",
+			"versionNo": "",
+			"navigationObjectsCountries": [
+				{
+					"country": "IN&#124;&#124;"
+				}
+			]
+		},
+		{
+			"objectType": "SP",
+			"objectId": "0501041967",
+			"salesOffice": "",
+			"agentNumber": "",
+			"documentCategory": "",
+			"versionNo": "",
+			"navigationObjectsCountries": [
+				{
+					"country": "AU&#124;&#124;"
+				}
+			]
+		},
+		{
+			"objectType": "SP",
+			"objectId": "050133504",
+			"salesOffice": "",
+			"agentNumber": "",
+			"documentCategory": "",
+			"versionNo": "",
+			"navigationObjectsCountries": [
+				{
+					"country": "AU&#124;&#124;"
+				}
+			]
+		},
+		{
+			"objectType": "SP",
+			"objectId": "060109243",
+			"salesOffice": "",
+			"agentNumber": "",
+			"documentCategory": "",
+			"versionNo": "",
+			"navigationObjectsCountries": [
+				{
+					"country": "AU&#124;&#124;"
+				}
+			]
+		},
+		{
+			"objectType": "SP",
+			"objectId": "011010220",
+			"salesOffice": "",
+			"agentNumber": "",
+			"documentCategory": "",
+			"versionNo": "",
+			"navigationObjectsCountries": [
+				{
+					"country": "AU&#124;&#124;"
+				}
+			]
+		},
+		{
+			"objectType": "SP",
+			"objectId": "CW01001721",
+			"salesOffice": "",
+			"agentNumber": "",
+			"documentCategory": "",
+			"versionNo": "",
+			"navigationObjectsCountries": [
+				{
+					"country": "AU&#124;&#124;"
+				}
+			]
+		},
+		{
+			"objectType": "SP",
+			"objectId": "110589424 ",
+			"salesOffice": "",
+			"agentNumber": "",
+			"documentCategory": "",
+			"versionNo": "",
+			"navigationObjectsCountries": [
+				{
+					"country": "AU&#124;&#124;"
+				}
+			]
+		},
+		{
+			"objectType": "SP",
+			"objectId": "500089954",
+			"salesOffice": "",
+			"agentNumber": "",
+			"documentCategory": "",
+			"versionNo": "",
+			"navigationObjectsCountries": [
+				{
+					"country": "AU&#124;&#124;"
+				}
+			]
+		},
+		{
+			"objectType": "SP",
+			"objectId": "500196184",
+			"salesOffice": "",
+			"agentNumber": "",
+			"documentCategory": "",
+			"versionNo": "",
+			"navigationObjectsCountries": [
+				{
+					"country": "AU&#124;&#124;"
+				}
+			]
+		},
+		{
+			"objectType": "SP",
+			"objectId": "501000978",
+			"salesOffice": "",
+			"agentNumber": "",
+			"documentCategory": "",
+			"versionNo": "",
+			"navigationObjectsCountries": [
+				{
+					"country": "AU&#124;&#124;"
+				}
+			]
+		},
+		{
+			"objectType": "SP",
+			"objectId": "110447148",
+			"salesOffice": "",
+			"agentNumber": "",
+			"documentCategory": "",
+			"versionNo": "",
+			"navigationObjectsCountries": [
+				{
+					"country": "AU&#124;&#124;"
+				}
+			]
+		},
+		{
+			"objectType": "SP",
+			"objectId": "110940198",
+			"salesOffice": "",
+			"agentNumber": "",
+			"documentCategory": "",
+			"versionNo": "",
+			"navigationObjectsCountries": [
+				{
+					"country": "AU&#124;&#124;"
+				}
+			]
+		},
+		{
+			"objectType": "SP",
+			"objectId": "500278856",
+			"salesOffice": "",
+			"agentNumber": "",
+			"documentCategory": "",
+			"versionNo": "",
+			"navigationObjectsCountries": [
+				{
+					"country": "AU&#124;&#124;"
+				}
+			]
+		},
+		{
+			"objectType": "SP",
+			"objectId": "500582403",
+			"salesOffice": "",
+			"agentNumber": "",
+			"documentCategory": "",
+			"versionNo": "",
+			"navigationObjectsCountries": [
+				{
+					"country": "AU&#124;&#124;"
+				}
+			]
+		},
+		{
+			"objectType": "SP",
+			"objectId": "501267370",
+			"salesOffice": "",
+			"agentNumber": "",
+			"documentCategory": "",
+			"versionNo": "",
+			"navigationObjectsCountries": [
+				{
+					"country": "AU&#124;&#124;"
+				}
+			]
+		},
+		{
+			"objectType": "SP",
+			"objectId": "1000657331",
+			"salesOffice": "",
+			"agentNumber": "",
+			"documentCategory": "",
+			"versionNo": "",
+			"navigationObjectsCountries": [
+				{
+					"country": "AU&#124;&#124;"
+				}
+			]
+		},
+		{
+			"objectType": "SP",
+			"objectId": "1000017944",
+			"salesOffice": "",
+			"agentNumber": "",
+			"documentCategory": "",
+			"versionNo": "",
+			"navigationObjectsCountries": [
+				{
+					"country": "TW&#124;&#124;"
+				}
+			]
+		},
+		{
+			"objectType": "SP",
+			"objectId": "1034126126",
+			"salesOffice": "",
+			"agentNumber": "",
+			"documentCategory": "",
+			"versionNo": "",
+			"navigationObjectsCountries": [
+				{
+					"country": "NL&#124;&#124;"
+				}
+			]
+		},
+		{
+			"objectType": "SP",
+			"objectId": "1000845053",
+			"salesOffice": "",
+			"agentNumber": "",
+			"documentCategory": "",
+			"versionNo": "",
+			"navigationObjectsCountries": [
+				{
+					"country": "US&#124;&#124;"
+				}
+			]
+		},
+		{
+			"objectType": "SP",
+			"objectId": "1000826386",
+			"salesOffice": "",
+			"agentNumber": "",
+			"documentCategory": "",
+			"versionNo": "",
+			"navigationObjectsCountries": [
+				{
+					"country": "DE&#124;&#124;"
+				}
+			]
+		},
+		{
+			"objectType": "SP",
+			"objectId": "1000748499",
+			"salesOffice": "",
+			"agentNumber": "",
+			"documentCategory": "",
+			"versionNo": "",
+			"navigationObjectsCountries": [
+				{
+					"country": "US&#124;&#124;"
+				}
+			]
+		},
+		{
+			"objectType": "SP",
+			"objectId": "45454544",
+			"salesOffice": "",
+			"agentNumber": "",
+			"documentCategory": "",
+			"versionNo": "",
+			"navigationObjectsCountries": [
+				{
+					"country": "AU&#124;&#124;"
+				}
+			]
+		},
+		{
+			"objectType": "SP",
+			"objectId": "454545454",
+			"salesOffice": "",
+			"agentNumber": "",
+			"documentCategory": "",
+			"versionNo": "",
+			"navigationObjectsCountries": [
+				{
+					"country": "AU&#124;&#124;"
+				}
+			]
+		}
+	]
+}
